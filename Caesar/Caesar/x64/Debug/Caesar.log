@@ -1,0 +1,4 @@
+﻿  凯撒密码.cpp
+E:\Caesar\Caesar\凯撒密码.cpp(14,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Caesar\Caesar\凯撒密码.cpp(38,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Caesar.vcxproj -> E:\Caesar\x64\Debug\Caesar.exe
