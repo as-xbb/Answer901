@@ -1,0 +1,3 @@
+"D:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\as.dir/objects.a
+D:\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\ar.exe qc CMakeFiles\as.dir/objects.a @CMakeFiles\as.dir\objects1.rsp
+D:\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\as.dir/objects.a -Wl,--no-whole-archive -o as.exe -Wl,--out-implib,libas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\as.dir\linklibs.rsp
