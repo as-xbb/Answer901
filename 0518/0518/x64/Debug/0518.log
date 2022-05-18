@@ -1,0 +1,5 @@
+﻿  test.c
+E:\0518\0518\test.c(12,38): warning C4013: “malloc”未定义；假设外部返回 int
+E:\0518\0518\test.c(12,55): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+E:\0518\x64\Debug\0518.exe : fatal error LNK1120: 1 个无法解析的外部命令
